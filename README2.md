@@ -1,0 +1,1 @@
+Yii adalah kerangka kerja PHP berkinerja tinggi, berbasis komponen yang digunakan untuk mengembangkan aplikasi web   modern dengan cepat. Nama Yii (diucapkan Yee atau [ji:] ) yang berarti "sederhana dan berevolusi" dalam bahasa Cina.
